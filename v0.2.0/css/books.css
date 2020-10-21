@@ -1,0 +1,23 @@
+.logo {
+    left: 50px;
+    position: relative;
+    width: 50%;
+}
+
+.book-cover {
+    height: 450px;
+    width: 400px;
+}
+
+.info {
+    padding: 50px 100px;
+}
+
+.details {
+    padding: 0 50px;
+}
+
+.plot {
+    width: 50%;
+}
+

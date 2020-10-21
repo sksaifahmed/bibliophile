@@ -1,0 +1,32 @@
+.logo {
+    left: 50px;
+    position: relative;
+    width: 50%;
+}
+
+.slideshow-img {
+    width: 100%;
+}
+
+.welcome{
+    background-color: #F2D13E;
+}
+
+.welcome-message {
+    padding: 70px;
+    width: 50%;
+}
+
+.genre {
+    padding: 50px 30px;
+}
+
+.book {
+    padding: 0 30px;
+}
+
+.book-cover {
+    height: 360px;
+    width: 320px;
+}
+
