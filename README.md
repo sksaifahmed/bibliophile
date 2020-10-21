@@ -10,7 +10,7 @@ This is the more stylized version using Bootstrap. The original styling provided
 
 ## Features to be added in later versions
 
-* Navigation Bar
+* ~~Navigation Bar~~
 
 * Footer
 
